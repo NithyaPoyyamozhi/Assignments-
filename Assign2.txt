@@ -1,0 +1,70 @@
+# using for loop
+
+0
+1
+2
+3
+4
+5
+
+#Using if statement
+10 is greater than 8
+
+#Using for loop
+
+p
+y
+t
+h
+o
+n
+
+# Using for loop to print the list
+Machine Learning
+Deep Learning
+NLP
+
+#Using for loop
+
+2
+6
+10
+14
+18
+22
+26
+
+#Using Ifelse statement
+35 is odd
+
+#Using for loop and If statement to print even values
+#Using for loop and If statement to print odd values
+
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+
+#Using for loop
+
+Machine Learning
+M
+c
+i
+e
+L
+a
+n
+n
+
+#Using elif statement
+10
+20
+30
+30 is greater

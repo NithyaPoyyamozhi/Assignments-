@@ -1,0 +1,30 @@
+***STUDENT INFO***
+Name:John
+Roll no:123
+Department:Information Technology
+--------------------------------------
+#Create a class to swap two numbers without using temporary variable
+--------------------------------------
+#Create a class to calculate average
+
+Mark1=45
+Mark2=56
+Mark3=78
+Total: 179
+Average: 59
+-------------------------------------
+#Create a class to display multiply of consecutive numbers
+------------------------------------------
+#Create a class  for employee details
+Employee name:John
+Employee ID:101
+Employee Job role:Software Developer
+Employee salary:9000
+Employee name:Amith
+Employee ID:125
+Employee Job role:Assistant
+Employee salary:1500
+Employee name:Aravind
+Employee ID:205
+Employee Job role:Test Engineer
+Employee salary:9500
